@@ -10,7 +10,7 @@ Both projects are currently under heavy and active development, so please be pat
 
 ### Getting Started
 
-Right now, there's literally no code. We'll write a formal "Getting Started" section when we are approaching our first Alpha release.
+We'll write a formal "Getting Started" section when we are approaching our first Alpha release.
 
 ### Documentation
 
@@ -18,9 +18,9 @@ Well, that'll come eventually. Have to develop the product first!
 
 ### Community
 
-We value a strong community, and as such, communication is right at the top. Join us on <a href="#">Slack</a> and say hi!
+Join us on <a href="https://boltstack.slack.com/">Slack</a> and say hi!
 
 
 ### Contributing
 
-Want to help out? No task is too small for us. If you aren't comfortable with Go, you can add to our documentation. If you want to contribute to the codebase, we would also definitely appreciate it. If you'd like to become a collaborator, please email us at <a href="#">collab@boltstack.io</a>
+Want to help out? No task is too small for us. If you aren't comfortable with Go, you can add to our documentation. If you want to contribute to the codebase, we would also definitely appreciate it. If you'd like to become a collaborator, please email us at <a href="mailto:contact@boltstack.io">contact@boltstack.io</a> or join us on <a href="https://boltstack.slack.com/">Slack</a>.
