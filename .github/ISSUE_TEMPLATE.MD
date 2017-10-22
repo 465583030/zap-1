@@ -6,6 +6,8 @@
 
 **If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem or a link to your repo/gist.**
 
+**What version of Zap?**
+
 **What version of Go?**
 
 **What version of your OS?**
