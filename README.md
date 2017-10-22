@@ -1,10 +1,10 @@
-# Bolt
+# Zap
 
 **We are a WIP and are just getting started.**
 
-Bolt is a Command Line Interface (CLI) for creating new projects as fast as a lightning bolt.
+Zap is a Command Line Interface (CLI) for creating new projects.
 
-<!-- We also have a GUI for you to take advantage of. You can learn more <a href="https://github.com/boltstack/bolt-gui">here.</a> -->
+In the future, we will also ship a GUI with the same capabilities.
 
 Both projects are currently under heavy and active development, so please be patient. We'll let you know when we are in Alpha!
 
